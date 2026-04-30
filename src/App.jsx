@@ -1,6 +1,6 @@
 import Header from './components/Header'
 import LinkList from './components/LinkList'
-import Footer from './components/footer'
+import Footer from './components/Footer'
 
 function App() {
   return (
